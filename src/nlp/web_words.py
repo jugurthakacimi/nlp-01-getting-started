@@ -1,7 +1,7 @@
 """web_words.py - Project script (example).
 
 Author: Jugurtha Kacimi
-Date: 10-21-2026
+Date: 2026-10
 
 Purpose
 

@@ -16,7 +16,7 @@
 
 Author: Jugurtha Kacimi
 
-Date: 10-21-2026
+Date: 2026-10
 
 First project in the Web Mining and Applied NLP course.
 
@@ -42,8 +42,8 @@ for analysis.
 
 No local input dataset is required.
 
-The example uses the Wikipedia article on
-[Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing).
+The example uses the EESI article on
+[Data Centers and Water Consumption](https://www.eesi.org/articles/view/data-centers-and-water-consumption).
 
 ## Approach
 
@@ -110,7 +110,7 @@ and the logging system works.
 
 ### Example Visualization
 
-![Word Cloud Example](docs/images/word_cloud_example.png)
+![Word Cloud Example](docs/images/wordcloud.png)
 
 ## Verification
 
@@ -223,6 +223,6 @@ testing, documentation, and code quality.
 ## Links
 
 - [Hosted Documentation](https://jugurthakacimi.github.io/nlp-01-getting-started/)
-- [Professional Python Workflow Guide](https://jugurthakacimi.github.io/pro-analytics-02/)
+- [Professional Python Workflow Guide](https://denisecase.github.io/pro-analytics-02/)
 - [Citation](CITATION.cff)
 - [License](LICENSE)
